@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ayush">Ayush Chauhan</string>
+    <string name="back">Back</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="click_to_generate_button_to_add">Click to generate button to add</string>
+    <string name="click_to_add_button_to_add" />
+    <string name="click_the_add_button_to_add">add</string>
+    <string name="click_the_add_button">click the add button to add</string>
+    <string name="total">Total =</string>
+    <string name="hello_broooo">hello broooo</string>
+    <string name="screen1">screen1</string>
+    <string name="screen2">screen2</string>
+    <string name="screen3">screen3</string>
+    <string name="screen6">screen6</string>
+    <string name="add">add</string>
+    <string name="subtract">subtract</string>
+    <string name="multiply">multiply</string>
+    <string name="menu">MENU</string>
+    <string name="divide">divide</string>
+</resources>
